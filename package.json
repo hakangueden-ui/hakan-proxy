@@ -8,13 +8,13 @@
 \f0\fs24 \cf0 \{\
   "name": "hakan-proxy",\
   "version": "1.0.0",\
+  "main": "index.js",\
+  "type": "module",\
   "scripts": \{\
     "start": "node index.js"\
   \},\
   "dependencies": \{\
     "express": "^4.18.2",\
     "request": "^2.88.2"\
-  \},\
-  "type": "module"\
-\}\
-}
+  \}\
+\}}
